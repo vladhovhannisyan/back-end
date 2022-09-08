@@ -1,0 +1,7 @@
+{
+  "port": 5000,
+  "database": 'mongodb+srv://root:12345@cluster0.8of6k.mongodb.net/applyHub?retryWrites=true&w=majority',
+  "dbPassword": 12345,
+  "jwtSecret": 'secret',
+  "jwtExpiresIn": '30d'
+}
